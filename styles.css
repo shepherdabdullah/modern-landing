@@ -1,23 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700&display=swap');
 
 .light {
-  --mainColor: #64bcf4;
-  --hoverColor: #5bacdf;
-  --backgroundColor: #f1f8fc;
-  --darkOne: #312f3a;
-  --darkTwo: #45424b;
-  --lightOne: #919191;
-  --lightTwo: #aaa;
+  --mainColor: #a70eb6;
+  --hoverColor: #bb43c1;
+  --backgroundColor: #f2f1fc;
+  --darkOne: #281474;
+  --darkTwo: #281474;
+  --lightOne: #4a32a2;
+  --lightTwo: #4a32a2;
 }
 
 .dark {
-  --mainColor: #64bcf4;
-  --hoverColor: #5bacdf;
-  --backgroundColor: #192e3a;
-  --darkOne: #f3f3f3;
-  --darkTwo: #fff;
-  --lightOne: #ccc;
-  --lightTwo: #e7e3e3;
+  --mainColor: #a70eb6;
+  --hoverColor: #bb43c1;
+  --backgroundColor: #1d193a;
+  --darkOne: #ff1d9c;
+  --darkTwo: #ff1d9c;
+  --lightOne: #c29bef;
+  --lightTwo: #c29bef;
 }
 
 *,
